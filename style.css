@@ -1,0 +1,152 @@
+body{
+background-color:black;
+text-align:center;
+color:white;
+}
+
+img{
+border-radius: 15%;
+border: 3px solid white;
+}
+
+#coco{
+height: 400px; 
+width: 350px;
+margin-top:-60px;
+}
+
+#Elena{
+height: 175px;
+width: 175px; 
+margin-left:160px;
+margin-right:25px;
+}
+
+#Miguel{
+height: 175px;
+width: 175px; 
+margin-left:105px;
+}
+
+#Mama{
+height: 175px;
+width: 175px; 
+margin: 0px 150px;
+}
+
+
+#Imelda{
+height: 175px; 
+width: 175px;
+margin-right:1250px;
+margin-top:-185px;
+}
+
+#Hector{
+height: 175px;
+width: 175px;
+margin-left:1250px;
+margin-top:-181px;
+}
+
+#Text1{
+margin-right:1255px;
+
+}
+
+#Text2{
+margin-right:645px;
+margin-top:-40;
+}
+
+
+#Text3{
+margin-top:-40px;
+margin-right:20px;
+}
+
+#Text4{
+margin-top:-40px;
+margin-left:1250px;
+
+}
+
+#Text5{
+margin-left:650px;
+margin-top: -40px;
+}
+
+#Comment2{
+padding-bottom:180px;
+padding-top:20px;
+padding-left:20px;
+width:450px;
+background-color:2px soild white;
+margin-top:0px;
+margin-right:1100px;
+float:left;
+}
+
+#Comment{
+color:white;
+border-radius:40px;
+padding-bottom:10px;
+padding-top:10px;
+padding-left:10px;
+padding-right:10px;
+background-color:midnightblue;
+border: 3.5px solid midnightblue;
+float:left;
+margin-top:10px;
+margin-left:8px;
+
+}
+
+#Movies{
+color:white;
+margin-top:120px;
+margin-left:100px;
+background-color:midnightblue;
+border: 3.5px solid midnightblue;
+float:left;
+
+}
+
+#Input1{
+color:black;
+border-radius:40px;
+padding-bottom:5px;
+padding-top:5px;
+padding-left:20px;
+padding-right:20px;
+background-color:white;
+margin-top:75px;
+margin-right:1000px;
+float:left;
+}
+
+
+#Input2{
+color:white;
+margin-top:-35px;
+margin-left:440px;
+border-radius:40px;
+background-color:midnightblue;
+border: 3.5px solid midnightblue;
+padding-bottom:10px;
+padding-left:10px;
+padding-right:10px;
+padding-top:10px;
+float:left;
+}
+
+#N{
+margin-top:60px;
+margin-right:50px;
+}
+
+
+
+
+
+
